@@ -2,7 +2,7 @@
   "name": "2026 世界杯賽程追蹤",
   "short_name": "世界杯",
   "description": "2026 FIFA 世界杯完整賽程，台灣時間顯示",
-  "start_url": "/",
+  "start_url": "/2026-world-cup/",
   "display": "standalone",
   "background_color": "#0a1628",
   "theme_color": "#0a1628",
